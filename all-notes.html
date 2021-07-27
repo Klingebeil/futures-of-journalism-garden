@@ -1,0 +1,10 @@
+---
+layout: note
+title: All Notes
+---
+
+<ul>
+    {% for page in site.notes %}
+    <li><a class="internal-link" href="{{ page.url }}">{{ page.title }}</a></li>
+    {% endfor %}
+</ul>

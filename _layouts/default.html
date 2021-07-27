@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+  {%- include head.html -%}
+  <body class="foreground-text sans-serif bg-background">
+    {%- include header.html -%}
+    <main class="links-foreground-text" aria-label="Content">
+      {{ content }}
+    </main>
+    {%- include footer.html -%}
+    {% include link-previews.html %}
+    <script src="{{ "/assets/js/d3.min.js" | relative_url }}"></script>
+    <script src="{{ "/assets/js/scripts.js" | relative_url }}?{{ site.time | date: '%s%N' }}"></script>
+  </body>
+</html>

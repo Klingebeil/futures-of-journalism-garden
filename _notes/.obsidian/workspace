@@ -1,0 +1,133 @@
+{
+  "main": {
+    "id": "6143316b706e9239",
+    "type": "split",
+    "children": [
+      {
+        "id": "352f7af37f9d894e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Emerging Practices.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "25a53f4d538edc0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d14dc09eaeab430",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4fc00fec597d6a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c29725d930fc675e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bf0555c318b85c34",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a22014148ab8da03",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e29cf9ffadb9944",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d949b975f34aecac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Emerging Practices.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7a2c952a226f8bbe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Emerging Practices.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1579be9f145ed471",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "352f7af37f9d894e",
+  "lastOpenFiles": [
+    "Emerging Practices.md",
+    "Infrastructure.md",
+    "Internet Futures.md",
+    "Ad-Tech Mess.md",
+    "Journalist as Entrepreneur.md",
+    "New Local Media.md",
+    "The Algorithm.md",
+    "Influencer—Journalists.md",
+    "Auto—Augmentation.md",
+    "Climate Reporting.md"
+  ]
+}

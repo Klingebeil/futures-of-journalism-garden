@@ -1,0 +1,34 @@
+@media screen and (max-width: 600px) {
+    article {
+        width: 100% !important;
+
+        button {
+            display: none;
+        }
+
+        .note-title {
+            font-size: 2.5em;
+        }
+    }
+
+    #note-container {
+        padding-top: 400px;
+        pointer-events: none;
+
+        div {
+            pointer-events: auto;
+        }
+    }
+
+    #gardenConditions {
+        display: none;
+    }
+
+    nav {
+        display: none !important;
+    }
+
+    #graph-wrapper {
+        width: 100% !important;
+    }
+}

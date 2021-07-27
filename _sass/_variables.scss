@@ -1,0 +1,28 @@
+:root {
+  --active-note: #FF0000;
+  --foreground-text: #3863ff;
+  --foreground-text-light: #94A8F8;
+  --foreground-text-rgb: 240, 110, 47;
+  --internal-link-rgb: 245, 164, 134;
+  --background: #EFEFEF;
+}
+
+.bg-foreground-text {
+  background-color:var(--foreground-text);
+}
+
+.b--foreground-text {
+  border-color:var(--foreground-text);
+}
+
+.foreground-text {
+  color:var(--foreground-text);
+}
+
+.bg-background {
+  background-color:var(--background);
+}
+
+.b--background {
+  border-color:var(--background);
+}

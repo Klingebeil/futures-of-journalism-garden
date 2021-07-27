@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "letter-of-intent",
+      "path": "Intro.md"
+    },
+    {
+      "type": "file",
+      "title": "XX Template",
+      "path": "templates/Note-Template.md"
+    }
+  ]
+}

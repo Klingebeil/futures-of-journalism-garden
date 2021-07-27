@@ -1,0 +1,13 @@
+{
+  "attachmentFolderPath": "assets",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "spellcheck": true,
+  "showFrontmatter": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "spellcheckDictionary": [
+    "narratable"
+  ],
+  "newFileLocation": "current"
+}
